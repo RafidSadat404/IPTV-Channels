@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="EKATTOR TV" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="Bangladeshi",EKATTOR TV
-http://15.1.5.14:8082/Ekattor-tv/index.m3u8
+http://15.1.5.18:8082/Ekattor-tv/index.m3u8
 
 #EXTINF:-1 tvg-name="EKATTOR TV 2" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="Bangladeshi",EKATTOR TV 2
 http://172.16.50.2:8082/Ekattor-tv/index.m3u8
