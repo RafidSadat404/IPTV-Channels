@@ -1,0 +1,98 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="EKATTOR TV" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="Bangladeshi",EKATTOR TV
+http://15.1.5.14:8082/Ekattor-tv/index.m3u8
+
+#EXTINF:-1 tvg-name="EKATTOR TV 2" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="Bangladeshi",EKATTOR TV 2
+http://172.16.50.2:8082/Ekattor-tv/index.m3u8
+
+#EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="Bangladeshi",NAGORIK TV
+http://15.1.5.14:8082/nagorik-tv/index.m3u8
+
+#EXTINF:-1 tvg-name="MOHONA TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="Bangladeshi",MOHONA TV
+http://15.1.5.18:8082/MohonaTV/index.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL I" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="Bangladeshi",CHANNEL I
+http://15.1.5.14:8082/Channel-i/index.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL I 2" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="Bangladeshi",CHANNEL I 2
+http://172.16.50.2:8082/Channel-i/index.m3u8
+
+#EXTINF:-1 tvg-name="SATV" tvg-logo="https://sunplex.net/iptv/logo/satv.jpg" group-title="Bangladeshi",SATV
+http://15.1.5.14:8082/SATV/index.m3u8
+
+#EXTINF:-1 tvg-name="GTV HD" tvg-logo="http://172.16.50.2/assets/images/gazi.jpg" group-title="Bangladeshi",GTV HD
+http://172.16.50.2:8082/Gazi-Tv/index.m3u8
+
+#EXTINF:-1 tvg-name="ATN NEWS" tvg-logo="http://bciptv.net/assets/images/atnnews.jpg" group-title="Bangladeshi",ATN NEWS
+http://15.1.5.22:8082/Atn-News/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="Bangladeshi",RTV
+http://15.1.5.22:8082/RTV/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV 2" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="Bangladeshi",RTV 2
+http://172.16.50.2:8082/RTV/index.m3u8
+
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="Bangladeshi",INDEPENDENT TV
+http://15.1.5.18:8082/Independent-Tv/index.m3u8
+
+#EXTINF:-1 tvg-name="INDEPENDENT TV 2" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="Bangladeshi",INDEPENDENT TV
+http://172.16.50.2:8082/Independent-Tv/index.m3u8
+
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="Bangladeshi",JAMUNA TV
+http://15.1.5.18:8082/jamuna-tv/index.m3u8
+
+#EXTINF:-1 tvg-name="BOISHAKHI TV" tvg-logo="http://172.16.50.2/assets/images/boishakhi.jpg" group-title="Bangladeshi",BOISHAKHI TV
+http://15.1.5.14:8082/Boishakhi/index.m3u8
+
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="Bangladeshi",SOMOY TV
+http://15.1.5.14:8082/Somoy-TV/index.m3u8
+
+#EXTINF:-1 tvg-name="MY TV" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title=Bangladeshi"",MY TV
+http://15.1.5.22:8082/MyTV/index.m3u8
+
+#EXTINF:-1 tvg-name="News24" tvg-logo="https://sunplex.net/iptv/logo/news-24.jpg" group-title="Bangladeshi",News24
+http://15.1.5.22:8082/News24bd/index.m3u8
+
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://sunplex.net/iptv/logo/btv.jpg" group-title="Bangladeshi",BTV
+http://15.1.5.18:8082/btv/index.m3u8
+
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.jpg" group-title="Indian",SONY AATH
+http://15.1.5.22:8082/Sonyaath/index.m3u8
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="Sports",T SPORTS
+http://172.16.50.2:8082/T-Sports/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony SIX HD" tvg-logo="http://bciptv.net/assets/images/sonysixhd.jpg" group-title="Sports",Sony Sports 1 HD
+http://15.1.5.14:8082/sony-six-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Sports 1 HD" tvg-logo="http://bciptv.net/assets/images/starsports1.jpg" group-title="Sports",Sony Sports 1 HD
+http://172.16.50.2:8082/Star-Select-1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Select 1 HD" tvg-logo="http://bciptv.net/assets/images/starselect1.jpg" group-title="Sports",Sony Select 1 HD
+http://15.1.5.18:8082/select2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Select 2 HD" tvg-logo="http://172.16.50.2/assets/images/starselect2.jpg" group-title="Sports",Sony Select 2 HD
+http://15.1.5.18:8082/select2/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="http://bciptv.net/assets/images/stargold.jpg" group-title="Indian",Star Gold HD
+http://15.1.5.18:8082/star-gold/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="http://bciptv.net/assets/images/stargold.jpg" group-title="Indian",Star Plus HD
+http://15.1.5.14:8082/star-plus/index.m3u8
+
+#EXTINF:-1 tvg-name="Star MOVIES HD" tvg-logo="http://bciptv.net/assets/images/starmovieshd.jpg" group-title="Indian",Star MOVIES HD
+http://15.1.5.14:8082/star-movies-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="ZeeCinema HD" tvg-logo="http://172.16.50.2/assets/images/zeecinemahd.jpg" group-title="Indian",ZeeCinema HD
+http://15.1.5.14:8082/ZeeCinemaHD/index.m3u8
+
+#EXTINF:-1 tvg-name="DURONTO TV" tvg-logo="https://sunplex.net/iptv/logo/duronto-tv.jpg" group-title="Bangladeshi",DURONTO TV
+http://15.1.5.18:8082/duronto-tv/index.m3u8
+
+#EXTINF:-1 tvg-name="ALjazeera" tvg-logo="https://sunplex.net/iptv/logo/duronto-tv.jpg" group-title="English",ALjazeera
+http://15.1.1.38:8282/Aljazeera/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick" tvg-logo="https://sunplex.net/iptv/logo/duronto-tv.jpg" group-title="Cartoon",Nick
+http://172.16.50.2:8082/nike/index.m3u8
+
